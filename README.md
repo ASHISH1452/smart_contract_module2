@@ -2,7 +2,7 @@
 
 This is a decentralized ATM application that allows users to deposit and withdraw ether from an Ethereum blockchain.
 
-![dapp screenshot](https://i.imgur.com/avAEhjv.jpg)
+
 
 ## Prerequisites
 
